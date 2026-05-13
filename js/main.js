@@ -11,7 +11,7 @@
     { id: 'contact',  label: '联系', icon: 'C', href: prefix + 'contact.html' }
   ];
 
-  var navHtml = '<nav class="sidebar"><a href="' + prefix + 'index.html" class="sidebar-logo">N</a>';
+  var navHtml = '<nav class="sidebar"><a href="' + prefix + 'index.html" class="sidebar-logo">春</a>';
   navItems.forEach(function (item) {
     var activeClass = page === item.id ? ' active' : '';
     navHtml +=
