@@ -26,7 +26,7 @@
 
   var footerHtml =
     '<footer class="site-footer">' +
-    '<p>&copy; ' + new Date().getFullYear() + ' Nathan. 用心构建。</p>' +
+    '<p>&copy; ' + new Date().getFullYear() + ' 春未来 </p>' +
     '</footer>';
   document.body.insertAdjacentHTML('beforeend', footerHtml);
 })();
